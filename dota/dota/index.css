@@ -1,0 +1,17 @@
+body{
+    background-image: url(https://steamcdn-a.akamaihd.net/apps/dota2/images/blogfiles/2014/body_bg_mid.jpg);
+    background-color: #010101;
+    background-repeat: no-repeat;
+    background-position: top center;
+}
+
+h1{
+    text-shadow: indianred;
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+}
